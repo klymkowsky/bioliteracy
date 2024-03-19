@@ -78,20 +78,17 @@ function MM_preloadImages() { //v3.0
   </table>
   <table width="720" border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td width="621"><p><em>Our
-        goal is to develop and distribute open access course content and tools  to assess
-        whether students are
-        learning what teachers think they are teaching and what is necessary to really understand how biological system came to be and work.&nbsp;        </em></p>
+      <td width="630"><p><em>As part of the beSocratic network, our goal is to develop and distribute open access course content, formative assessments (via beSocratic), and AI-based student and instructor tools (tutors and analysts) to help students master key concepts through socratic interactions and&nbsp;</em><em>to assess whether students are learning what they need to know to understand biological systems and help teachers focus on what is necessary to understand how biological system work.&nbsp;</em></p>
         <table width="100%" border="0" cellspacing="0" cellpadding="2">
           <tr>
-            <td width="30%"><em>&quot;Those who can make you believe absurdities can make you commit atrocities.&quot; - Voltaire </em></td>
-            <td width="70%"><em>Many personal, political, and economic decisions depend upon a reasoned understanding of basic biology, but there is clear evidence that students are not mastering these &quot;biofundamentals&quot;.        Thinking scientifically benefits both the thinker and  the broader society.&nbsp;</em></td>
+            <td width="29%"><em>&quot;Those who can make you believe absurdities can make you commit atrocities.&quot; - Voltaire </em></td>
+            <td width="71%"><p align="right"><em>Many personal, political, and economic decisions depend upon a reasoned understanding of basic biology, but there is clear evidence that students are not mastering these &quot;biofundamentals&quot;.        Thinking scientifically benefits both the thinker and  the broader society.&nbsp;</em></p></td>
           </tr>
         </table>
         <p><em>We
-          see rational thinking as the  best antidote for, and vaccine
-      against, irrationalism, wishful thinking, unintended consequences, and the inhuman treatment of others.</em>.</p></td>
-      <td width="99"><div align="right"><font color="#FFFFFF" face="Book Antiqua"><a href="http://biodidac.bio.uottawa.ca/info/browse.htm" target="_blank"><img src="Graphics/volvocalesc.jpg" alt="volvox" width="86" height="240"></a></font></div></td>
+          see rational thinking and mechanistic undertandng as the  best antidote for, and vaccine
+      against, irrationalism, wishful thinking, unintended consequences, and the inhuman treatment of others.</em></p></td>
+      <td width="90"><div align="right"><font color="#FFFFFF" face="Book Antiqua"><a href="http://biodidac.bio.uottawa.ca/info/browse.htm" target="_blank"><img src="Graphics/volvocalesc.jpg" alt="volvox" width="86" height="240"></a></font></div></td>
     </tr>
   </table>
   <table width="720" border="0" cellspacing="0" cellpadding="0">
@@ -139,8 +136,7 @@ function MM_preloadImages() { //v3.0
   <table width="720" border="0" cellspacing="0" cellpadding="0">
       <tr>
           <td width="91%"><div align="right"><span class="style10"><font color="#666666"><a href="search.html" target="_blank"><em>Supported
-            in part by the NSF, </em></a></font><em>a John Doctor prize (Society for Developmental Biology) &amp; the kindness of others</em></span><span class="style60"><em><br>
-</em><font color="#666666" size="-2" face="Arial, Helvetica, sans-serif" class="style10"><em>started a long time ago - last update 4 March </em></font></span><font color="#666666" size="-2" face="Arial, Helvetica, sans-serif"><em>2020</em></font> </div></td>
+            over the years  by the NSF, </em></a></font><em>a John Doctor prize (Society for Developmental Biology) &amp; the kindness of others</em></span><span class="style60"><em>&nbsp;  </em><font color="#666666" size="-2" face="Arial, Helvetica, sans-serif" class="style10"><em>- last update </em></font></span><font color="#666666" size="-2" face="Arial, Helvetica, sans-serif"><em>20</em></font><span class="style60"><font color="#666666" size="-2" face="Arial, Helvetica, sans-serif" class="style10"><em> March </em></font></span><font color="#666666" size="-2" face="Arial, Helvetica, sans-serif"><em>2024</em></font> </div></td>
         <td width="9%"><div align="right" class="style58">
             <p align="left" class="style60"><font size="-2"><img src="Graphics/nsf01.gif" alt="" width="60" height="54" /></font></p>
           </div></td>
